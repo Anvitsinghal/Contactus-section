@@ -1,0 +1,14 @@
+.primary_btn{
+    padding:18px 12px;
+    color:white;
+    background-color: black;
+    border-radius: 5px;
+    min-width: 220px;
+}
+.bada_btn{
+    padding:18px 12px;
+    color:black;
+    background-color: white;
+    border-radius: 5px;
+    min-width: 440px;
+}

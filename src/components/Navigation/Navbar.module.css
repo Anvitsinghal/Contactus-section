@@ -1,0 +1,23 @@
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    height:80px;
+    width:100%;
+    font-size: 30px;
+   
+   
+   }
+   .content{
+     display: flex;
+     gap:20px;
+   }
+   li{
+     list-style: none;
+     
+   }
+   button{
+     color: wheat;
+     background-color: red;
+    
+   }
